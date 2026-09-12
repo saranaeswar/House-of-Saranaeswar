@@ -1,0 +1,6 @@
+{
+  "name": "THE LAST WYRM — Chronicles of Veyrath",
+  "description": "An interactive fantasy dragon showcase and lore experience exploring the ancient mountain wyrm, royal bloodlines, and the fallen kingdom of Veyrath.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
